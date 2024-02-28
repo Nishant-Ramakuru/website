@@ -103,20 +103,23 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: testimonials
+  - block: team
+    id: team
     content:
-      title: ""
-      text: ""
+      title: Meet The Leadership
+      text: 
       items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
-    design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
+        - name: Nishant Ramakuru
+          icon: magnifying-glass
+          description: CEO & CTO
+          Head Of Research and Development
+        - name: Harshit Khanna
+          icon: bolt
+          description: CEO & CTO 
+          Head of Robotics Technology
+        - name: David Pareira
+          icon: sparkles
+          description: Helper
   - block: cta-card
     content:
       title: Build your future-proof website
