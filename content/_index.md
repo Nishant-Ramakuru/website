@@ -106,7 +106,7 @@ sections:
   - block: testimonials
     content:
       title: Meet The Leadership
-      text: ""
+      text: 
       items:
         - name: Nishant Ramakuru
           icon: magnifying-glass
