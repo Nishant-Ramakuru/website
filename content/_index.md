@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: A Technology Innovation Partner
+      text: Artificial Intelligence, Data Analytics and Full Automation Powerhouse
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
