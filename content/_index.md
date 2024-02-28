@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: A Technology Innovation Partners
+      title: A Technology Innovation Partner
       text: Artificial Intelligence, Data Analytics and Full Automation Powerhouse
     
       
