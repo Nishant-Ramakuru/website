@@ -12,7 +12,7 @@ sections:
     content:
       title: A Technology Innovation Partner
       text: Artificial Intelligence, Data Analytics and Full Automation Powerhouse
-      primary_action:
+      /* primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
         icon: rocket-launch
@@ -24,6 +24,7 @@ sections:
         link:
           text: "Read more"
           url: "/blog/"
+      */ 
     design:
       spacing:
         padding: [0, 0, 0, 0]
