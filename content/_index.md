@@ -111,12 +111,10 @@ sections:
     items:
       - name: Nishant Ramakuru
         icon: magnifying-glass
-        description: CEO & CTO
-        Head Of Research and Development
+        description: CEO & CTO (Head Of Research and Development)
       - name: Harshit Khanna
         icon: bolt
-        description: CEO & CTO 
-        Head of Robotics Technology
+        description: CEO & CTO (Head of Robotics Technology)
       - name: David Pareira
         icon: sparkles
         description: Helper
