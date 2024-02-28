@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: A Technology Innovation Partner
+      title: A Technology Innovation Partners
       text: Artificial Intelligence, Data Analytics and Full Automation Powerhouse
     
       
@@ -103,23 +103,27 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: team
-    id: team
+  - block: testimonials
     content:
-      title: Meet The Leadership
-      text: 
-      items:
-        - name: Nishant Ramakuru
-          icon: magnifying-glass
-          description: CEO & CTO
-          Head Of Research and Development
-        - name: Harshit Khanna
-          icon: bolt
-          description: CEO & CTO 
-          Head of Robotics Technology
-        - name: David Pareira
-          icon: sparkles
-          description: Helper
+      
+    title: Meet The Leadership
+    text: ""
+    items:
+      - name: Nishant Ramakuru
+        icon: magnifying-glass
+        description: CEO & CTO
+        Head Of Research and Development
+      - name: Harshit Khanna
+        icon: bolt
+        description: CEO & CTO 
+        Head of Robotics Technology
+      - name: David Pareira
+        icon: sparkles
+        description: Helper
+    design:
+      spacing:
+        # Reduce bottom spacing so the testimonial appears vertically centered between sections
+        padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
       title: Build your future-proof website
