@@ -68,10 +68,10 @@ sections:
           description: Embracing the Future, Exploring the Synergy of Industry 4.0 and the Internet of Things to Drive Innovation and Connectivity
         - name: Consultancy
           icon: star
-          description: Elevating Efficiency and Precision: Empowering Industries through Expert Robotic Solutions Consultancy
+          description: Elevating Efficiency and Precision, Empowering Industries through Expert Robotic Solutions Consultancy
         - name: Control Systems & Monitoring
           icon: rectangle-group
-          description: Fostering Precision and Stability: Pioneering Control Systems for Seamless Operations and Enhanced Performance
+          description: Fostering Precision and Stability, Pioneering Control Systems for Seamless Operations and Enhanced Performance
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
