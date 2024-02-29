@@ -100,6 +100,9 @@ sections:
           button:
             text: Join Discord
             url: https://discord.gg/z8wNYzb
+        - title: David Guetta
+          text: Helper
+          image: david.png
 
     design:
       # Section background color (CSS class)
