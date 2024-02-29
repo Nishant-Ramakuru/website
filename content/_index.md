@@ -62,7 +62,7 @@ sections:
           description: Navigating the Data Landscape, Unleashing Powerful Insights and Strategic Guidance through Innovative Data Analysis Approaches
         - name: Robotic Process Automation (RPA)
           icon: sparkles
-          description: Optimizing Workflows, Amplifying Productivity: Harnessing the Transformative Capabilities of Robotic Process Automation
+          description: Optimizing Workflows, Amplifying Productivity, Harnessing the Transformative Capabilities of Robotic Process Automation
         - name: Industry 4.0 & IoT
           icon: code-bracket
           description: Embracing the Future: Exploring the Synergy of Industry 4.0 and the Internet of Things to Drive Innovation and Connectivity
