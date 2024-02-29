@@ -107,6 +107,7 @@ sections:
     content:
       title: "Meet The Leadership"
       items:    
+        - image: coffee.jpg
         - name: "Nishant Ramakur Co-founder and CEO and CTO, Head of Research and Development"
           description: 
         - name: "Harshit Khanna Co-founder CEO and CTO Head of Robotics Technology"
