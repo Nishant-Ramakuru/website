@@ -63,7 +63,7 @@ sections:
         - name: Robotic Process Automation (RPA)
           icon: sparkles
           description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
+        - name: Industry 4.0
           icon: code-bracket
           description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
         - name: Highly Rated
