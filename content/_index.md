@@ -103,7 +103,7 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: testimonials
+  - block: features
     content:
       title: "Meet The Leadership"
       items:    
