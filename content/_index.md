@@ -74,7 +74,14 @@ sections:
           description: Build your pages with blocks - no coding required!
 
 
-  
+  - block: features
+    content:
+      title: "Meet The Leadership"
+      
+    design:
+      spacing:
+        # Reduce bottom spacing so the testimonial appears vertically centered between sections
+        padding: ["6rem", 0, 0, 0]
   - block: cta-image-paragraph
     id: solutions
     content:
@@ -111,21 +118,7 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: features
-    content:
-      title: "Meet The Leadership"
-      text:
-      items:    
-        - name: "Nishant Ramakur Co-founder and CEO and CTO, Head of Research and Development"
-          description: 
-        - name: "Harshit Khanna Co-founder CEO and CTO Head of Robotics Technology"
-          description: 
-        - name: "David Pareira Helper"
-          description: 
-    design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
+  
   - block: cta-card
     content:
       title: Build your future-proof website
