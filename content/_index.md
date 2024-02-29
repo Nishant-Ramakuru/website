@@ -75,9 +75,17 @@ sections:
   - block: cta-image-paragraph
     id: solutions
     content:
-      title: Meet our Leaders
       items:
-        - title: Nishant Ramakuru
+        - title: Meet our Leaders
+
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
+  - block: cta-image-paragraph
+    id: solutions
+    content:
+      items:
+        - title: Nishant Ramakur
           text: Co-founder CEO and CTO, Head of Research and Development
           feature_icon: check
           features:
