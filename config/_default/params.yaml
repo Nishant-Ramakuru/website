@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: dark
-  color: navy
+  mode: light
+  color: indigo
 
 # SEO
 marketing:
