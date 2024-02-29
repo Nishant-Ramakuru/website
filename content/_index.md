@@ -120,7 +120,7 @@ sections:
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 1, 2, 3]
+        padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
       title: Build your future-proof website
