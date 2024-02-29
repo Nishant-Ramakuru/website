@@ -119,10 +119,7 @@ sections:
   - block: features
     content:
       title: "Meet The Leadership"
-    design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["10rem", 0, 0, 0]
+    
   - block: cta-image-paragraph
     id: solutions
     content:
