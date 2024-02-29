@@ -114,7 +114,7 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       # Reduce spacing
       spacing:
-        padding: ["10rem", 0, "10rem", 0]
+        padding: ["6rem", 0, "6rem", 0]
 
   - block: features
     content:
