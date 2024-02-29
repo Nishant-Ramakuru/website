@@ -109,13 +109,10 @@ sections:
       items:    
         - name: Nishant Ramakur Co-founder and CEO and CTO, Head of Research and Development
           image: coffee.jpg
-          icon: magnifying-glass
           description: 
         - name: Harshit Khanna Co-founder CEO and CTO Head of Robotics Technology
-          icon: bolt
           description: 
         - name: David Pareira Helper
-          icon: sparkles
           description: 
     design:
       spacing:
