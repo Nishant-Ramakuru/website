@@ -68,7 +68,6 @@ sections:
           text: Monitor, Control, and Automate organizational operations — at scale. Enabling our partners and clients conquer the toughest challenges across all applications, sectors and industries.
           feature_icon: bolt
           features:
-            - ""
           # Upload image to `assets/media/` and reference the filename here
           image: decision_making.jpg
           button:
@@ -78,7 +77,6 @@ sections:
           text: How? By establishing sophisticated technology systems to effectively detect and manage risks, controls, and insights to gain an edge against competition, leading markets and achieving new competitive heights — locally, regionally and globally.
           feature_icon: bolt
           features:
-            - ""
           image: industry.png
           button:
             text: CONTACT US
