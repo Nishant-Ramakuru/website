@@ -105,13 +105,13 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
   - block: testimonials
     content:
-      title: Meet The Leadership
+      title: "Meet The Leadership"
       items:    
-        - name: Nishant Ramakur Co-founder and CEO and CTO, Head of Research and Development
+        - name: "Nishant Ramakur Co-founder and CEO and CTO, Head of Research and Development"
           description: 
-        - name: Harshit Khanna Co-founder CEO and CTO Head of Robotics Technology
+        - name: "Harshit Khanna Co-founder CEO and CTO Head of Robotics Technology"
           description: 
-        - name: David Pareira Helper
+        - name: "David Pareira Helper"
           description: 
     design:
       spacing:
