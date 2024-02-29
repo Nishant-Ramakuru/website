@@ -105,7 +105,7 @@ sections:
             text: Join Discord
             url: https://discord.gg/z8wNYzb
         - title: David Guetta
-          text: Helper
+          text: Co-founder CEO and CTO, Head of Engineering
           image: david.png
 
     design:
