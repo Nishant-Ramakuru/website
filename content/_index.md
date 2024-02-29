@@ -159,7 +159,7 @@ sections:
 
     design:
       # Section background color (CSS class)
-      
+      css_class: "dark"
   
   - block: cta-card
     content:
