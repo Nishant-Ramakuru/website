@@ -77,7 +77,7 @@ sections:
     content:
       title: Meet our Leaders
       items:
-        - title: Nishant Ramakur
+        - title: Nishant Ramakuru
           text: Co-founder CEO and CTO, Head of Research and Development
           feature_icon: check
           features:
