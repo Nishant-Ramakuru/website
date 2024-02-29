@@ -108,7 +108,7 @@ sections:
       title: Meet The Leadership
       text: 
       items:    
-        -name: Nishant Ramakur Co-founder and CEO and CTO, Head of Research and Development
+        - name: Nishant Ramakur Co-founder and CEO and CTO, Head of Research and Development
           icon: magnifying-glass
           description: 
         - name: Harshit Khanna Co-founder CEO and CTO Head of Robotics Technology
