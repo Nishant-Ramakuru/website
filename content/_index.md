@@ -72,20 +72,12 @@ sections:
         - name: Swappable Blocks
           icon: rectangle-group
           description: Build your pages with blocks - no coding required!
+  
   - block: cta-image-paragraph
     id: solutions
     content:
       items:
-        - title: Meet our Leaders
-
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: cta-image-paragraph
-    id: solutions
-    content:
-      items:
-        - title: Nishant Ramakur
+        - title: Nishant Ramakuru
           text: Co-founder CEO and CTO, Head of Research and Development
           feature_icon: check
           features:
