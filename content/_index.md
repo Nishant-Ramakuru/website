@@ -76,7 +76,7 @@ sections:
     id: solutions
     content:
       items:
-        - title: Nishant Ramakuru
+        - title: Nishant Ramakur
           text: Co-founder CEO and CTO, Head of Research and Development
           feature_icon: check
           features:
