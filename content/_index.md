@@ -52,7 +52,7 @@ sections:
     id: features
     content:
       title: What we do
-      text: Build your site with blocks 🧱
+      text: Build your future with us 🧱
       items:
         - name: Robotics & Automation
           icon: magnifying-glass
