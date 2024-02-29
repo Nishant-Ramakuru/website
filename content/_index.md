@@ -119,6 +119,7 @@ sections:
   - block: features
     content:
       title: "Meet The Leadership"
+      text: "Reach out to us. We don't bite :p
     
   - block: cta-image-paragraph
     id: solutions
@@ -135,7 +136,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: nishant.png
           button:
-            text: Get Started
+            text: Reach Out
             url: https://hugoblox.com/templates/
         - title: Harshit Khanna
           text: Co-founder CEO and CTO, Head of Robotics Technology
@@ -147,7 +148,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: harshit.png
           button:
-            text: Join Discord
+            text: Reach Out
             url: https://discord.gg/z8wNYzb
         - title: David Guetta
           text: Co-founder CEO and CTO, Head of Engineering
@@ -157,7 +158,9 @@ sections:
             - "6+ Years working experience in Robotic Solutions"
             - "Share your site and get feedback"
           image: david.png
-
+          button:
+            text: Reach Out
+            url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
       css_class: "dark"
