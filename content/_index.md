@@ -72,7 +72,7 @@ sections:
         - name: Swappable Blocks
           icon: rectangle-group
           description: Build your pages with blocks - no coding required!
-  - block: cta-image-paragrap
+  - block: cta-image-paragraph
     id: solutions
     content:
       items:
