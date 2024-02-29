@@ -108,8 +108,7 @@ sections:
       title: Meet The Leadership
       text: 
       items:
-       
-      image: coffe.jpg
+  
       -name: Nishant Ramakur Co-founder and CEO and CTO, Head of Research and Development
           icon: magnifying-glass
           description: 
