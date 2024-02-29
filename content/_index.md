@@ -76,8 +76,8 @@ sections:
     id: solutions
     content:
       items:
-        - title: Build your future-proof website
-          text: As easy as 1, 2, 3!
+        - title: Nishant Ramakuru
+          text: Co-founder CEO and CTO, Head of Research and Development
           feature_icon: check
           features:
             - "Future-proof - edit your content in text files"
