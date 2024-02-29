@@ -51,16 +51,16 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
+      title: What we do
       text: Build your site with blocks 🧱
       items:
-        - name: Optimized SEO
+        - name: Robotics & Automation
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+          description: Sensors, Robotics, and Internet of Things (IoT)
+        - name: Advanced Data Analytics
           icon: bolt
           description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
+        - name: Robotic Process Automation (RPA)
           icon: sparkles
           description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
         - name: No-Code
@@ -75,6 +75,7 @@ sections:
   - block: cta-image-paragraph
     id: solutions
     content:
+      title: Meet our Leaders
       items:
         - title: Nishant Ramakur
           text: Co-founder CEO and CTO, Head of Research and Development
