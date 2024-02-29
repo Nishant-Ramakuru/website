@@ -74,16 +74,11 @@ sections:
           description: Build your pages with blocks - no coding required!
 
 
-  - block: features
-    id: features
-    content:
-      title: Meet our Leaders
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+  
   - block: cta-image-paragraph
     id: solutions
     content:
+      title: Meet our Leaders
       items:
         - title: Nishant Ramakuru
           text: Co-founder CEO and CTO, Head of Research and Development
