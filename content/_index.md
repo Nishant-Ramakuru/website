@@ -119,6 +119,7 @@ sections:
   - block: features
     content:
       title: "Meet The Leadership"
+      text: "Reach Out to us, we dont bite. 
   - block: cta-image-paragraph
     id: solutions
     content:
