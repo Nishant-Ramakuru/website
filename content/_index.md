@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: A Technology Innovation Partnerss
+      title: A Technology Innovation Partners
       text: Artificial Intelligence, Data Analytics and Full Automation Powerhouse
     
       
@@ -110,10 +110,10 @@ sections:
       items:
         - name: Nishant Ramakuru
           icon: magnifying-glass
-          description: CEO & CTO (Head Of Research and Development)
+          description: CEO and CTO Head of Research and Development
         - name: Harshit Khanna
           icon: bolt
-          description: CEO & CTO (Head of Robotics Technology)
+          description: CEO and CTO Head of Robotics Technology
         - name: David Pareira
           icon: sparkles
           description: Helper
