@@ -108,15 +108,15 @@ sections:
       title: Meet The Leadership
       text: ""
       items:
-        - name: Nishant Ramakuru
+        - name: Nishant Ramakuru Co-founder and CEO and CTO, Head of Research and Development
           icon: magnifying-glass
-          description: CEO and CTO Head of Research and Development
-        - name: Harshit Khanna
+          description: 
+        - name: Harshit Khanna Co-founder CEO and CTO Head of Robotics Technology
           icon: bolt
-          description: CEO and CTO Head of Robotics Technology
-        - name: David Pareira
+          description: 
+        - name: David Pareira Helper
           icon: sparkles
-          description: Helper
+          description: 
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
