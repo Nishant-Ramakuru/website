@@ -48,6 +48,42 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
+
+  - block: cta-image-paragraph
+    id: solutions
+    content:
+      items:
+        - title: We are a digital technology innovation partner for governments, businesses, and organizations of all sizes.
+          text: Our teams, partners, and affiliates take pride in our comprehensive Executive, Supervisory and Advisory expertise in all practical aspects of adopting and applying
+          feature_icon: check
+          features:
+            - "Advanced digital technology + intelligent automation systems"
+            - "Sophisticated high-tech technologies and infrastructure (software, hardware, and robotics)"
+          # Upload image to `assets/media/` and reference the filename here
+          image: nishant.png
+          button:
+            text: Get Started
+            url: https://hugoblox.com/templates/
+        - title: Our tailored solutions empower leaders and decision-makers with the real-time validated data, and actionable on-demand insights, they need to
+          text: Monitor, Control, and Automate organizational operations — at scale. Enabling our partners and clients conquer the toughest challenges across all applications, sectors and industries.
+          feature_icon: bolt
+          features:
+            - ""
+          # Upload image to `assets/media/` and reference the filename here
+          image: harshit.png
+          button:
+            text: Join Discord
+            url: https://discord.gg/z8wNYzb
+        - title: We create strong bonds with our partners. Empowering leaders to unleash their true potential and leverage our capabilities to protect competitive achievements, and further boost growth and prosperity.
+          text: How? By establishing sophisticated technology systems to effectively detect and manage risks, controls, and insights to gain an edge against competition, leading markets and achieving new competitive heights — locally, regionally and globally.
+          feature_icon: bolt
+          features:
+            - ""
+          image: david.png
+
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
   - block: features
     id: features
     content:
