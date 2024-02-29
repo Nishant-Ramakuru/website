@@ -122,7 +122,7 @@ sections:
   - block: cta-image-paragraph
     id: solutions
     content:
-      title: "Meet The Leadership"
+      text: "Meet The Leadership"
       items:
         - title: Nishant Ramakuru
           text: Co-founder CEO and CTO, Head of Research and Development
