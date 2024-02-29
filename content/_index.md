@@ -84,7 +84,7 @@ sections:
 
     design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      css_class: "white"
   - block: features
     id: features
     content:
