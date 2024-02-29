@@ -107,7 +107,7 @@ sections:
     content:
       title: "Meet The Leadership"
       text:
-      item:    
+      items:    
         image: coffee.jpg
         - name: "Nishant Ramakur Co-founder and CEO and CTO, Head of Research and Development"
           description: 
