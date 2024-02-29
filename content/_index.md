@@ -106,7 +106,7 @@ sections:
   - block: testimonials
     content:
       title: Meet The Leadership
-      text:
+      text: Build the future together
       items:    
         - name: Nishant Ramakur Co-founder and CEO and CTO, Head of Research and Development
           image: coffee.jpg
