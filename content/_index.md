@@ -60,7 +60,7 @@ sections:
             - "Advanced digital technology + intelligent automation systems"
             - "Sophisticated high-tech technologies and infrastructure (software, hardware, and robotics)"
           # Upload image to `assets/media/` and reference the filename here
-          image: nishant.png
+          image: digital_tech.jpg
           button:
             text: CONTACT US
             url: https://hugoblox.com/templates/
@@ -70,7 +70,7 @@ sections:
           features:
             - ""
           # Upload image to `assets/media/` and reference the filename here
-          image: harshit.png
+          image: decision_making.jpg
           button:
             text: CONTACT US
             url: https://discord.gg/z8wNYzb
@@ -79,7 +79,7 @@ sections:
           feature_icon: bolt
           features:
             - ""
-          image: david.png
+          image: industry.png
           button:
             text: CONTACT US
             url: https://discord.gg/z8wNYzb
