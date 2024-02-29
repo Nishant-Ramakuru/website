@@ -76,7 +76,8 @@ sections:
     id: solutions
     content:
       items:
-        - title: Nishant Ramakuru
+        -title: D
+        -title: Nishant Ramakuru
           text: Co-founder CEO and CTO, Head of Research and Development
           feature_icon: check
           features:
@@ -88,8 +89,8 @@ sections:
           button:
             text: Get Started
             url: https://hugoblox.com/templates/
-        - title: Large Community
-          text: Join our large community on Discord - ask questions and get live responses
+        - title: Harshit Khanna
+          text: Co-founder CEO and CTO, Head of Robotics Technology
           feature_icon: bolt
           features:
             - "Dedicated support channel"
@@ -100,6 +101,7 @@ sections:
           button:
             text: Join Discord
             url: https://discord.gg/z8wNYzb
+
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
