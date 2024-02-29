@@ -5,12 +5,12 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "10rem"
 
 sections:
   - block: hero
     content:
-      title: A Technology Innovation Partners
+      title: A Technology Innovation Partner
       text: Artificial Intelligence, Data Analytics and Full Automation Powerhouse
     
       
