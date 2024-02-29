@@ -62,7 +62,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: nishant.png
           button:
-            text: Get Started
+            text: CONTACT US
             url: https://hugoblox.com/templates/
         - title: Our tailored solutions empower leaders and decision-makers with the real-time validated data, and actionable on-demand insights, they need to
           text: Monitor, Control, and Automate organizational operations — at scale. Enabling our partners and clients conquer the toughest challenges across all applications, sectors and industries.
@@ -72,7 +72,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: harshit.png
           button:
-            text: Join Discord
+            text: CONTACT US
             url: https://discord.gg/z8wNYzb
         - title: We create strong bonds with our partners. Empowering leaders to unleash their true potential and leverage our capabilities to protect competitive achievements, and further boost growth and prosperity.
           text: How? By establishing sophisticated technology systems to effectively detect and manage risks, controls, and insights to gain an edge against competition, leading markets and achieving new competitive heights — locally, regionally and globally.
@@ -80,6 +80,9 @@ sections:
           features:
             - ""
           image: david.png
+          button:
+            text: CONTACT US
+            url: https://discord.gg/z8wNYzb
 
     design:
       # Section background color (CSS class)
