@@ -72,7 +72,12 @@ sections:
         - name: Swappable Blocks
           icon: rectangle-group
           description: Build your pages with blocks - no coding required!
-
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
+      # Reduce spacing
+      spacing:
+        padding: ["10rem", 0, "10rem", 0]
 
   - block: features
     content:
