@@ -56,22 +56,22 @@ sections:
       items:
         - name: Robotics & Automation
           icon: magnifying-glass
-          description: Sensors, Robotics, and Internet of Things (IoT)
+          description: Transforming Industries Through Innovation, Empowering Efficiency, Precision and Revolutionizing processes with cutting-edge technology
         - name: Advanced Data Analytics
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
+          description: Navigating the Data Landscape, Unleashing Powerful Insights and Strategic Guidance through Innovative Data Analysis Approaches
         - name: Robotic Process Automation (RPA)
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: Industry 4.0
+          description: Optimizing Workflows, Amplifying Productivity: Harnessing the Transformative Capabilities of Robotic Process Automation
+        - name: Industry 4.0 & IoT
           icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
+          description: Embracing the Future: Exploring the Synergy of Industry 4.0 and the Internet of Things to Drive Innovation and Connectivity
         - name: Consultancy
           icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
+          description: Elevating Efficiency and Precision: Empowering Industries through Expert Robotic Solutions Consultancy
+        - name: Control Systems & Monitoring
           icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: Fostering Precision and Stability: Pioneering Control Systems for Seamless Operations and Enhanced Performance
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
