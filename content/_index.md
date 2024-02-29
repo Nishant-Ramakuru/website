@@ -109,8 +109,8 @@ sections:
       text: 
       items:
        
-     image: coffe.jpg
-     -name: Nishant Ramakur Co-founder and CEO and CTO, Head of Research and Development
+      image: coffe.jpg
+      -name: Nishant Ramakur Co-founder and CEO and CTO, Head of Research and Development
           icon: magnifying-glass
           description: 
         - name: Harshit Khanna Co-founder CEO and CTO Head of Robotics Technology
