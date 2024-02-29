@@ -66,13 +66,21 @@ sections:
         - name: Industry 4.0
           icon: code-bracket
           description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
+        - name: Consultancy
           icon: star
           description: Rated 5-stars by the community.
         - name: Swappable Blocks
           icon: rectangle-group
           description: Build your pages with blocks - no coding required!
-  
+
+
+  - block: features
+    id: features
+    content:
+      title: Meet our Leaders
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
   - block: cta-image-paragraph
     id: solutions
     content:
