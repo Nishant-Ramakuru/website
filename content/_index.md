@@ -80,7 +80,7 @@ sections:
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["2rem", 0, 0, 0]
+        padding: ["10rem", 0, 0, 0]
   - block: cta-image-paragraph
     id: solutions
     content:
