@@ -134,6 +134,7 @@ sections:
             - "Experience in Defence sector"
           # Upload image to `assets/media/` and reference the filename here
           image: nishant.png
+          shape: circle
           button:
             text: Reach Out
             url: https://hugoblox.com/templates/
@@ -146,6 +147,7 @@ sections:
             - "Experience in Defence sector"
           # Upload image to `assets/media/` and reference the filename here
           image: harshit.png
+          shape: circle
           button:
             text: Reach Out
             url: https://discord.gg/z8wNYzb
@@ -157,6 +159,7 @@ sections:
             - "6+ Years working experience in Robotic Solutions"
             - "Share your site and get feedback"
           image: david.png
+          shape: circle
           button:
             text: Reach Out
             url: https://discord.gg/z8wNYzb
