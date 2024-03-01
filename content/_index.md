@@ -131,7 +131,7 @@ sections:
           features:
             - "Robotics & AI postgrad, University of Bristol, UK"
             - "Research Background in Game-Theory, Genetic Algorithms, Multi-agent Modelling"
-            - "Experience in Defence sector"
+            - "Experience working in Security & Defence, Oil & Gas, Healtcare, Education & Research, Engineering & Manufacturing and Financial Services sector"
           # Upload image to `assets/media/` and reference the filename here
           image: nishant.png
           shape: circle
