@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "enov0logo.png"
+      filename: "enov8logo.png"
     button:
       enable: true
       text: "Get Started"
