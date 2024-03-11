@@ -40,7 +40,7 @@ header:
     button:
       enable: true
       text: "CONTACT US"
-      url: /#contact
+      url: /#cta-card
     show_search: true
     show_theme_chooser: true
 
