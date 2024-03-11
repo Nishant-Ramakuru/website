@@ -126,7 +126,7 @@ sections:
       text: "Meet The Leadership"
       items:
         - title: Nishant Ramakuru
-          text: Co-founder CEO and CTO, Head of Research and Development
+          text: Co-founder & CEO, Head of Research and Development
           feature_icon: check
           features:
             - "Robotics & AI postgrad, University of Bristol, UK"
@@ -139,7 +139,7 @@ sections:
             text: Reach Out
             url: https://hugoblox.com/templates/
         - title: Harshit Khanna
-          text: Co-founder CEO and CTO, Head of Robotics Technology
+          text: Co-founder & CTO, Head of Robotics Technology
           feature_icon: bolt
           features:
             - "Ex-KUKA"
@@ -152,7 +152,7 @@ sections:
             text: Reach Out
             url: https://discord.gg/z8wNYzb
         - title: David Guetta
-          text: Co-founder CEO and CTO, Head of Engineering
+          text: Co-founder & COO, Head of Engineering
           feature_icon: bolt
           features:
             - "Ex-KUKA"
