@@ -39,8 +39,8 @@ header:
       filename: "enov8logo_v2.jpg"
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+      text: "CONTACT US"
+      url: /#contact
     show_search: true
     show_theme_chooser: true
 
