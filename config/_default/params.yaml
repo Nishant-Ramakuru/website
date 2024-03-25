@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "enov8_logo_v3.jpg"
+      filename: "enov8_logo_v3.png"
     button:
       enable: true
       text: "CONTACT US"
